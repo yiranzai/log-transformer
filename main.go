@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"github.com/yiranzai/log-transformer/cmd"
+)
+
+// @title log transformer
 
 func main() {
-	fmt.Println("test")
+	cmd.Execute()
 }

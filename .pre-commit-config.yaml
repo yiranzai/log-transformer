@@ -31,7 +31,7 @@ repos:
   - id: go-mod-tidy
   - id: golines
   - id: go-imports
-  - id: go-unit-tests
+#  - id: go-unit-tests
 
       #      - id: go-lint
 #      - id: go-imports
