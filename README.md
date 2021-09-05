@@ -14,24 +14,21 @@ Parse Log Write And Transform To Other
 ______________________________________________________________________
 
 <!--ts-->
+   * [log-transformer](#log-transformer)
+      * [目录](#目录)
+      * [Usage](#usage)
+         * [Install](#install)
+         * [Run](#run)
+         * [Test](#test)
+         * [<a href="https://pre-commit.com/" rel="nofollow">Pre-commit</a>](#pre-commit)
+      * [Github Workflows](#github-workflows)
+         * [Golang Test And Coverage](#golang-test-and-coverage)
+         * [<a href="https://github.com/pantheon-systems/autotag">Autotag</a>](#autotag)
+         * [<a href="https://github.com/goreleaser/goreleaser-action">Goreleaser</a>](#goreleaser)
+         * [<a href="https://github.com/yiranzai/github-markdown-toc">Github Markdown TOC</a>](#github-markdown-toc)
+      * [License](#license)
 
-- [log-transformer](#log-transformer)
-  - [目录](#%E7%9B%AE%E5%BD%95)
-  - [Setup](#setup)
-    - [Setup by Command](#setup-by-command)
-    - [Setup on GitHub](#setup-on-github)
-  - [Usage](#usage)
-    - [Install](#install)
-    - [Test](#test)
-    - [<a href="https://pre-commit.com/" rel="nofollow">Pre-commit</a>](#pre-commit)
-  - [Github Workflows](#github-workflows)
-    - [Golang Test And Coverage](#golang-test-and-coverage)
-    - [<a href="https://github.com/pantheon-systems/autotag">Autotag</a>](#autotag)
-    - [<a href="https://github.com/goreleaser/goreleaser-action">Goreleaser</a>](#goreleaser)
-    - [<a href="https://github.com/yiranzai/github-markdown-toc">Github Markdown TOC</a>](#github-markdown-toc)
-  - [License](#license)
-
-<!-- Added by: runner, at: Sat Sep  4 12:26:32 UTC 2021 -->
+<!-- Added by: runner, at: Sun Sep  5 13:32:52 UTC 2021 -->
 
 <!--te-->
 
