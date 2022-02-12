@@ -14,19 +14,20 @@ Parse Log Write And Transform To Other
 ______________________________________________________________________
 
 <!--ts-->
-   * [log-transformer](#log-transformer)
-      * [目录](#目录)
-      * [Usage](#usage)
-         * [Install](#install)
-         * [Run](#run)
-         * [Test](#test)
-         * [<a href="https://pre-commit.com/" rel="nofollow">Pre-commit</a>](#pre-commit)
-      * [Github Workflows](#github-workflows)
-         * [Golang Test And Coverage](#golang-test-and-coverage)
-         * [<a href="https://github.com/pantheon-systems/autotag">Autotag</a>](#autotag)
-         * [<a href="https://github.com/goreleaser/goreleaser-action">Goreleaser</a>](#goreleaser)
-         * [<a href="https://github.com/yiranzai/github-markdown-toc">Github Markdown TOC</a>](#github-markdown-toc)
-      * [License](#license)
+
+- [log-transformer](#log-transformer)
+  - [目录](#%E7%9B%AE%E5%BD%95)
+  - [Usage](#usage)
+    - [Install](#install)
+    - [Run](#run)
+    - [Test](#test)
+    - [<a href="https://pre-commit.com/" rel="nofollow">Pre-commit</a>](#pre-commit)
+  - [Github Workflows](#github-workflows)
+    - [Golang Test And Coverage](#golang-test-and-coverage)
+    - [<a href="https://github.com/pantheon-systems/autotag">Autotag</a>](#autotag)
+    - [<a href="https://github.com/goreleaser/goreleaser-action">Goreleaser</a>](#goreleaser)
+    - [<a href="https://github.com/yiranzai/github-markdown-toc">Github Markdown TOC</a>](#github-markdown-toc)
+  - [License](#license)
 
 <!-- Added by: runner, at: Sat Feb 12 07:49:54 UTC 2022 -->
 
@@ -96,6 +97,14 @@ Automatically increment version tags to a git repo based on commit messages.
 ### [Goreleaser](https://github.com/goreleaser/goreleaser-action)
 
 GitHub Action for GoReleaser
+
+#### [ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)
+
+GitHub Action to easily import a GPG key.
+
+[New Repository secret](https://github.com/yiranzai/golang-project-template/settings/secrets/actions/new)
+
+add `YOUR_PRIVATE_KEY` and `PASSPHRASE` secrets.
 
 ### [Github Markdown TOC](https://github.com/yiranzai/github-markdown-toc)
 
