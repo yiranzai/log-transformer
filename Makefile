@@ -1,6 +1,7 @@
 PROJECT="log-transformer"
 
 default:
+	mkdir bin
 	go build -o ./bin
 
 .PHONY:run
