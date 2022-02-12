@@ -164,5 +164,5 @@ Temporary Items
 
 ## Custome
 conf/config.yaml
-!bin/.gitkeep
 bin/*
+!bin/.gitkeep
